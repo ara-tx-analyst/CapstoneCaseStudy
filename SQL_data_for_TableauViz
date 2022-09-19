@@ -1,3 +1,10 @@
+/*
+
+Tableau Visualization URL link
+https://public.tableau.com/app/profile/alyssa.aguilar
+
+*/
+
 Select *
 From Portfolio_Project..covid_deaths1$
 Where continent is not null
