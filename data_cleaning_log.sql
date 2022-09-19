@@ -1,5 +1,6 @@
 /*
 Cleaning Data in SQL Queries
+This is a small project to display my understanding and ability to clean data
 */
 
 
